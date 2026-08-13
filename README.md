@@ -5,7 +5,7 @@
   <p><strong>Fill Codex's mobile gap from your phone.</strong></p>
   <p>Telegram control, multi-session routing, compact session mirroring, local-first execution.</p>
   <p>
-    <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/vvv214/codex-connector/ci.yml?branch=main&label=CI" />
+    <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/DPLab-UVA/codex-connector/ci.yml?branch=main&label=CI" />
     <img alt="Python 3.11+" src="https://img.shields.io/badge/python-3.11%2B-3776AB" />
     <img alt="Local-first" src="https://img.shields.io/badge/runtime-local--first-0F766E" />
     <img alt="Telegram" src="https://img.shields.io/badge/transport-Telegram-26A5E4" />
@@ -178,8 +178,8 @@ Useful local CLI examples:
 
 ```bash
 codex-connector run --config ./config.json --project codex-connector --mode new "summarize this repo"
-codex-connector status --config ./config.json --chat-id 390429375
-codex-connector last --config ./config.json --chat-id 390429375
+codex-connector status --config ./config.json --chat-id 123456789
+codex-connector last --config ./config.json --chat-id 123456789
 ```
 
 ## Contributing
