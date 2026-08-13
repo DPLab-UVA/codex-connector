@@ -52,7 +52,7 @@ It exists for one narrow job: let you drive the local Codex setup you already tr
 **From source**
 
 ```bash
-git clone https://github.com/vvv214/codex-connector.git
+git clone https://github.com/DPLab-UVA/codex-connector.git
 cd codex-connector
 python3 -m venv .venv
 source .venv/bin/activate

@@ -25,8 +25,8 @@ classifiers = [
 codex-connector = "codex_connector.cli:main"
 
 [project.urls]
-Repository = "https://github.com/vvv214/codex-connector"
-Issues = "https://github.com/vvv214/codex-connector/issues"
+Repository = "https://github.com/DPLab-UVA/codex-connector"
+Issues = "https://github.com/DPLab-UVA/codex-connector/issues"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
