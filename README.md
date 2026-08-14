@@ -1,5 +1,13 @@
 # codex-connector
 
+> [!NOTE]
+> This project was retired on August 13, 2026. It provided a Telegram bridge
+> for phone-based control of local Codex sessions. Codex now provides
+> first-party Remote access through the ChatGPT mobile and desktop apps, which
+> supersedes this repository's core mobile-control use case. See
+> [Remote connections](https://developers.openai.com/codex/remote-connections).
+> This code is preserved for historical reference and is no longer maintained.
+
 <div align="center">
   <h1>codex-connector</h1>
   <p><strong>Fill Codex's mobile gap from your phone.</strong></p>
